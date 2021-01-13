@@ -7,4 +7,4 @@ StructureMap 4.7.1
 
 # Output:
 
-![alt text](https://github.com/nrawat207/WindowsService-Nservicebus/blob/main/media/Output-WindowsServices.jpg)
+![alt text](https://github.com/nrawat207/WindowsService-Topshelf/blob/main/docs/output_topshelfservice.jpg)
